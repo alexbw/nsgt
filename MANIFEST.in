@@ -1,0 +1,9 @@
+graft examples 
+graft nsgt
+include *.txt
+prune paper 
+prune nsgt.egg-info 
+exclude *.lprof
+prune .settings
+prune nsgt.egg-info
+exclude .project .pydevproject

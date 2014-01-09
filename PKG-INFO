@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: nsgt
+Version: 0.13
+Summary: Python implementation of Non-Stationary Gabor Transform (NSGT)
+Home-page: http://grrrr.org/nsgt
+Author: Thomas Grill
+Author-email: gr@grrrr.org
+License: Creative Commons Attribution-NonCommercial-ShareAlike
+Description: UNKNOWN
+Keywords: fourier gabor
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: License :: Creative Commons Attribution-NonCommercial-ShareAlike License (CC BY-NC-SA)
+Classifier: Programming Language :: Python
+Requires: numpy
